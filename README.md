@@ -1,7 +1,8 @@
 # 💫 About Me:
 I AM A Normal Student From India,<br>Working On Big Projects , <br>If You Are A Tech , Game Or A Software Enthusiast<br>You Are at Right Place
 <h1 align="center">Download PGlove Browser Now </h1>
-##### Social OR
+<a href="https://pglove.jo3.org/">Download </a>
+<h2>Social OR</h2>
 <img src="https://raw.githubusercontent.com/TechAdityaBRO/Files/refs/heads/main/QR.png" width="500px" hight="500px"></img>
 
 <a href="https://www.google.com/search?q=PGlove+browser&oq=PGlove+browser&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTILCAEQABgNGB4YxwMyDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyDQgGEAAYhgMYgAQYigUyBggHEEUYPNIBCjEwNTk4ajBqMTWoAgiwAgHxBan5aueHN0cs8QWp-WrnhzdHLA&sourceid=chrome&source=chrome.rb&ie=UTF-8">Search PGlove on Google</a>
