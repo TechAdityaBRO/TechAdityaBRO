@@ -7,8 +7,8 @@ I AM A Normal Student From India,<br>Working On Big Projects , <br>If You Are A 
 
 <a href="https://www.google.com/search?q=PGlove+browser&oq=PGlove+browser&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTILCAEQABgNGB4YxwMyDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyDQgGEAAYhgMYgAQYigUyBggHEEUYPNIBCjEwNTk4ajBqMTWoAgiwAgHxBan5aueHN0cs8QWp-WrnhzdHLA&sourceid=chrome&source=chrome.rb&ie=UTF-8">Search PGlove on Google</a>
 
-<a href="<a href="https://www.bing.com/search?q=PGlove+Browser&form=ML2WN0&sp=-1&ghc=1&lq=0&pq=pglove+browser&sc=0-14&qs=n&sk=&cvid=A23289A80D1D48739E82D3D0E01C51C7&wlexpsignin=1&riscu=1&rwgbopen=1&synset=1">Search PGlove on Microsoft Bing</a>
-
+<a href="https://www.bing.com/search?q=PGlove+Browser&form=ML2WN0&sp=-1&ghc=1&lq=0&pq=pglove+browser&sc=0-14&qs=n&sk=&cvid=A23289A80D1D48739E82D3D0E01C51C7&wlexpsignin=1&riscu=1&rwgbopen=1&synset=1">Search PGlove on Microsoft Bing</a>
+<a href="https://search.yahoo.com/search?p=PGlove+Browser&fr=yfp-t&fr2=p%3Afp%2Cm%3Asb&fp=1">Search PGlove on Yahoo Search</a>
 
 
 
