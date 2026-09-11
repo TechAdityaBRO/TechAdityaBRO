@@ -5,10 +5,11 @@ I AM A Normal Student From India,<br>Working On Big Projects , <br>If You Are A 
 <h2>Social OR</h2>
 <img src="https://raw.githubusercontent.com/TechAdityaBRO/Files/refs/heads/main/QR.png" width="500px" hight="500px"></img>
 
-<a href="https://www.google.com/search?q=PGlove+browser&oq=PGlove+browser&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTILCAEQABgNGB4YxwMyDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyDQgGEAAYhgMYgAQYigUyBggHEEUYPNIBCjEwNTk4ajBqMTWoAgiwAgHxBan5aueHN0cs8QWp-WrnhzdHLA&sourceid=chrome&source=chrome.rb&ie=UTF-8">Search PGlove on Google</a>
-
-<a href="https://www.bing.com/search?q=PGlove+Browser&form=ML2WN0&sp=-1&ghc=1&lq=0&pq=pglove+browser&sc=0-14&qs=n&sk=&cvid=A23289A80D1D48739E82D3D0E01C51C7&wlexpsignin=1&riscu=1&rwgbopen=1&synset=1">Search PGlove on Microsoft Bing</a>
-<a href="https://search.yahoo.com/search?p=PGlove+Browser&fr=yfp-t&fr2=p%3Afp%2Cm%3Asb&fp=1">Search PGlove on Yahoo Search</a>
+<a href="https://www.google.com/search?q=PGlove+browser&oq=PGlove+browser&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTILCAEQABgNGB4YxwMyDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyDQgGEAAYhgMYgAQYigUyBggHEEUYPNIBCjEwNTk4ajBqMTWoAgiwAgHxBan5aueHN0cs8QWp-WrnhzdHLA&sourceid=chrome&source=chrome.rb&ie=UTF-8">Search PGlove on Google</a><br>
+<a href="https://www.bing.com/search?q=PGlove+Browser&form=ML2WN0&sp=-1&ghc=1&lq=0&pq=pglove+browser&sc=0-14&qs=n&sk=&cvid=A23289A80D1D48739E82D3D0E01C51C7&wlexpsignin=1&riscu=1&rwgbopen=1&synset=1">Search PGlove on Microsoft Bing</a><br>
+<a href="https://search.yahoo.com/search?p=PGlove+Browser&fr=yfp-t&fr2=p%3Afp%2Cm%3Asb&fp=1">Search PGlove on Yahoo Search</a><br>
+<a href="https://yandex.com/search/?text=PGlove+Browser&lr=114677&search_source=yacom_desktop_common">Search PGlove on Yandex </a><br>
+<a href="https://chatgpt.com/uc/6aa3e619-acd4-83ea-8e0f-1fb33c3ce6e2">Search PGlove on Chatgpt</a>
 
 
 
