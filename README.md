@@ -311,10 +311,9 @@ Chat, ask, explore — AI for everyone.
 ## 📊 GitHub Stats
 
 <a href="https://github.com/TechAdityaBRO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TechAdityaBRO&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ff3b9e&icon_color=00e5ff&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechAdityaBRO&layout=compact&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ff3b9e&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=TechAdityaBRO&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ff3b9e&icon_color=00e5ff&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TechAdityaBRO&layout=compact&theme=radical&hide_border=true&bg_color=0a0a1a&title_color=ff3b9e&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 </a>
-
 <br/><br/>
 
 <a href="https://github.com/TechAdityaBRO">
