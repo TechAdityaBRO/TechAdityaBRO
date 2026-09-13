@@ -326,7 +326,7 @@ Chat, ask, explore — AI for everyone.
 ## 🏆 GitHub Trophies
 
 <a href="https://github.com/TechAdityaBRO">
-  <img src="https://github-profile-trophy.vercel.app/?username=TechAdityaBRO&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+ <img src="https://github-trophies.vercel.app/?username=TechAdityaBRO&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
 </a>
 
 <br/><br/>
