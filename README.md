@@ -339,7 +339,7 @@ Chat, ask, explore — AI for everyone.
 </div>
 
 <br/>
-<img src="https://github-readme-activity-graph.shion.dev/graph?username=TechAdityaBRO&bg_color=0a0a1a&color=ff3b9e&line=00e5ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=FF3B9E&center=true&vCenter=true&width=700&height=80&lines=1%2C547+Contributions+in+2026+%F0%9F%9A%80;156+Contributions+in+the+Last+Year;Building+Daily+%E2%9A%A1" alt="Contribution Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechAdityaBRO&theme=radical" alt="Profile Summary"/>
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                          ANIMATED SOCIALS                                -->
