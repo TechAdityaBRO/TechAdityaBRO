@@ -64,8 +64,10 @@ fun_fact: "I ship code faster than I test it."
 - 🔭 Currently building **[PGlove Browser](https://pglove.jo3.org/)** — the browser that breaks so you don't have to
 - ⚡ Founder of **[BRO GANG](https://brogang.techaditya.workers.dev/)** — 38 members strong since 2022
 - 🤖 Working on **[Pro AI](https://progroupai.created.app/)** — powered by Gemini 2.5 Pro
+- 🔍 Building **[Nexa Search](https://nexasearch.pages.dev/)** — privacy-first search, no tracking
+- 🧠 Running **[BRO GANG AI](https://brogang.techaditya.workers.dev/)** — Llama 3.3 70B on Cloudflare Workers AI
 - 🎮 Running **[BroGangMC](https://brogangsmp.site.je/)** — our Minecraft SMP server
-- 💬 Ask me about **Web Dev, Three.js, Game Dev, or anything tech**
+- 💬 Ask me about **Web Dev, Three.js, Game Dev, AI Systems, or anything tech**
 - 📫 Reach me at **progroup@atomicmail.io**
 
 <br clear="both"/>
@@ -150,6 +152,40 @@ Chat, ask, explore — AI for everyone.
 [![Live](https://img.shields.io/badge/status-live-5dd65d?style=flat-square)](#)
 
 [**Chat Now →**](https://progroupai.created.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🔍 Nexa Search
+<a href="https://nexasearch.pages.dev/">
+  <img src="https://img.shields.io/badge/%F0%9F%94%8D-Nexa%20Search-00e5ff?style=for-the-badge&labelColor=0a0a1a" height="60" alt="Nexa Search"/>
+</a>
+
+**Privacy-first search engine.**
+
+No ads, no tracking pixels, no sold browsing history. 0.4s avg response.
+
+[![Live](https://img.shields.io/badge/status-live-5dd65d?style=flat-square)](#)
+
+[**Search Now →**](https://nexasearch.pages.dev/)
+
+</td>
+<td width="50%" align="center">
+
+### 🧠 BRO GANG AI
+<a href="https://brogang.techaditya.workers.dev/">
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0-BRO%20GANG%20AI-ff3b9e?style=for-the-badge&labelColor=0a0a1a" height="60" alt="BRO GANG AI"/>
+</a>
+
+**Next-gen AI assistant.**
+
+Powered by Llama 3.3 70B on Cloudflare Workers AI. Ask about BRO GANG, PGlove, or anything.
+
+[![Live](https://img.shields.io/badge/status-live-5dd65d?style=flat-square)](#)
+
+[**Try It →**](https://brogang.techaditya.workers.dev/)
 
 </td>
 </tr>
