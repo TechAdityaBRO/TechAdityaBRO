@@ -12,7 +12,7 @@
 
 <!-- ═══════════════ ANIMATED TYPING ═══════════════ -->
 <a href="https://github.com/TechAdityaBRO">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=FF3B9E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Aditya+Kumar+Sethi+%F0%9F%91%8B;Founder+of+BRO+GANG+%E2%9A%A1+%7C+East+2022;Creator+of+PGlove+Browser+%F0%9F%8C%90;Full-Stack+Developer+%7C+Game+Enthusiast;Welcome+to+my+corner+of+GitHub+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=FF3B9E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Aditya+Kumar+Sethi+%F0%9F%91%8B;Founder+of+BRO+GANG+%E2%9A%A1+%7C+East+2022;Creator+of+PGlove+Browser+%F0%9F%8C%90;Creator+of+Bro+Gang+AI+CLI+%E2%8C%A8;Full-Stack+Developer+%7C+Game+Enthusiast;Welcome+to+my+corner+of+GitHub+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -66,6 +66,7 @@ fun_fact: "I ship code faster than I test it."
 - 🤖 Working on **[Pro AI](https://progroupai.created.app/)** — powered by Gemini 2.5 Pro
 - 🔍 Building **[Nexa Search](https://nexasearch.pages.dev/)** — privacy-first search, no tracking
 - 🧠 Running **[BRO GANG AI](https://brogang.techaditya.workers.dev/)** — Llama 3.3 70B on Cloudflare Workers AI
+- ⌨️ Building **[Bro Gang AI CLI](https://brogangaicli.pages.dev/)** — free, open source AI coding agent for your terminal
 - 🎮 Running **[BroGangMC](https://brogangsmp.site.je/)** — our Minecraft SMP server
 - 💬 Ask me about **Web Dev, Three.js, Game Dev, AI Systems, or anything tech**
 - 📫 Reach me at **progroup@atomicmail.io**
@@ -186,6 +187,23 @@ Powered by Llama 3.3 70B on Cloudflare Workers AI. Ask about BRO GANG, PGlove, o
 [![Live](https://img.shields.io/badge/status-live-5dd65d?style=flat-square)](#)
 
 [**Try It →**](https://brogang.techaditya.workers.dev/)
+
+</td>
+<td width="50%" align="center">
+
+### ⌨️ Bro Gang AI CLI
+<a href="https://brogangaicli.pages.dev/">
+  <img src="https://img.shields.io/badge/%E2%8C%A8%EF%B8%8F-Bro%20Gang%20AI%20CLI-b537f2?style=for-the-badge&labelColor=0a0a1a" height="60" alt="Bro Gang AI CLI"/>
+</a>
+
+**Free, open source AI coding agent for your terminal.**
+
+npm · pnpm · yarn · bun · go install · winget
+
+[![npm](https://img.shields.io/badge/npm-%40brogang%2Fcli-CB3837?style=flat-square&logo=npm&logoColor=white)](#)
+[![Live](https://img.shields.io/badge/status-live-5dd65d?style=flat-square)](#)
+
+[**Install Now →**](https://brogangaicli.pages.dev/) · [**Source →**](https://github.com/TechAdityaBRO/brogang-cli)
 
 </td>
 </tr>
